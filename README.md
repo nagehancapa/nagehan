@@ -36,8 +36,6 @@ If you're using a technology that is not listed, don't hestitate to reach out to
 
 <a href="https://sass-lang.com/" target="_blank"> <img align="left" alt="Sass" title="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> </a>
 
-<a href="https://styled-components.com/" target="_blank"> <img align="left" alt="Styled-Components" title="Styled-Components" width="30px" src="https://avatars2.githubusercontent.com/u/20658825?s=200&v=4" /> </a>
-
 <br/><br/>
 
 ### My latest project:
